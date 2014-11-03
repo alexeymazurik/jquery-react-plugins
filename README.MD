@@ -1,7 +1,6 @@
 Table Sorting plugins with jQuery and React.js
 =========
 
----------
 To deploy this project you should have installed *NodeJS* on your PC.
 
 - React Component - ./public/src/app.js
@@ -23,3 +22,6 @@ You can run your project typing:
 node server.js
 ```
 
+Deployed
+----
+You can visit http://162.243.95.47:5000/ 
