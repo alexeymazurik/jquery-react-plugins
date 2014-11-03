@@ -1,0 +1,14 @@
+{
+    "name": "jquery_react_plugins",
+    "version": "0.1.0",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/alexeymazurik/jquery-react-plugins"
+    },
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "express": "^4.9.4"
+    }
+}

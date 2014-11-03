@@ -1,0 +1,16 @@
+[
+    {"First name": "Иван", "Middle name": "Иванович", "Last name": "Иванов", "Year": 1985, "Status": 1},
+    {"First name": "Иван", "Middle name": "Иванович", "Last name": "Петров", "Year": 1986, "Status": 0},
+    {"First name": "Иван", "Middle name": "Петрович", "Last name": "Николаев", "Year": 1985, "Status": 0},
+    {"First name": "Иван", "Middle name": "Николаевич", "Last name": "Иванов", "Year": 1982, "Status": 1},
+    {"First name": "Иван", "Middle name": "Иванович", "Last name": "Николаев", "Year": 1990, "Status": 1},
+    {"First name": "Петр", "Middle name": "Петрович", "Last name": "Валентинов", "Year": 1981, "Status": 1},
+    {"First name": "Петр", "Middle name": "Валентинович", "Last name": "Валентинов", "Year": 1985, "Status": 0},
+    {"First name": "Петр", "Middle name": "Николаевич", "Last name": "Петров", "Year": 1985, "Status": 0},
+    {"First name": "Петр", "Middle name": "Валентинович", "Last name": "Петров", "Year": 1985, "Status": 1},
+    {"First name": "Николай", "Middle name": "Николаевич", "Last name": "Николаев", "Year": 1986, "Status": 1},
+    {"First name": "Николай", "Middle name": "Николаевич", "Last name": "Валентинов", "Year": 1986, "Status": 1},
+    {"First name": "Николай", "Middle name": "Валентинович", "Last name": "Николаев", "Year": 1972, "Status": 0},
+    {"First name": "Валентин", "Middle name": "Николаевич", "Last name": "Валентинов", "Year": 1990, "Status": 0},
+    {"First name": "Валентин", "Middle name": "Иванович", "Last name": "Валентинов", "Year": 1972, "Status": 1}
+]
